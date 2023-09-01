@@ -11,7 +11,7 @@ Welcome to the official .github repository for Six Industries of Arizona. We are
 
 *4. Contributing*
 
-5. License
+*5. License*
 
 6. Contact Us
 
