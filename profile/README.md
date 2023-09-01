@@ -5,7 +5,7 @@ Welcome to the official .github repository for Six Industries of Arizona. We are
 # **Table of Contents**
 *1.About Six Industries of Arizona*
 
-2. Supported Industries
+*2. Supported Industries*
 
 3. Getting Started
 
