@@ -27,6 +27,7 @@ Six Industries of Arizona has been at the forefront of offering advanced tools t
 **2. Renewable Energy:** Monitoring and optimizing energy resources in real-time.
 
 **3. Mining & Metallurgy:** Ensuring safety and improving resource extraction techniques.
+
 4. Transportation & Logistics: Streamlining logistics and transport operations.
 5. Agriculture: Modernizing farming practices through predictive analytics.
 6. Healthcare: Enhancing patient care with real-time monitoring and predictive analytics.
