@@ -1,6 +1,6 @@
 # **.github Repository for Six Industries of Arizona**
 
-![Six Industries Banner or Logo](https://six-industries.com/assets/img/logo.png).
+![Six Industries Banner or Logo](https://six-industries.com/assets/img/logo.png)
 
 Welcome to the official .github repository for ***Six Industries of Arizona.*** We are a pioneering company specializing in situational awareness tools for various industries. With our innovative solutions, we aim to reshape the way businesses understand and respond to their environments.
 
