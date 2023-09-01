@@ -23,7 +23,8 @@ Six Industries of Arizona has been at the forefront of offering advanced tools t
 ***Here are the industries we currently cater to:***
 
 **1. Aerospace & Defense:** Enhancing the safety and efficiency of aviation operations.
-2. Renewable Energy: Monitoring and optimizing energy resources in real-time.
+
+**2. Renewable Energy:** Monitoring and optimizing energy resources in real-time.
 3. Mining & Metallurgy: Ensuring safety and improving resource extraction techniques.
 4. Transportation & Logistics: Streamlining logistics and transport operations.
 5. Agriculture: Modernizing farming practices through predictive analytics.
