@@ -28,7 +28,7 @@ Six Industries of Arizona has been at the forefront of offering advanced tools t
 
 **2. Renewable Energy:** Monitoring and optimizing energy resources in real-time while providing accountability and safety.
 
-**3. Mining & Metallurgy:** Ensuring safety and improving resource extraction techniques.
+**3. Mining & Metallurgy:** Ensuring safety and improving situational awareness techniques.
 
 **4. Transportation & Logistics:** Streamlining logistics and transport operations.
 
