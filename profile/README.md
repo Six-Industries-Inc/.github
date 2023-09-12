@@ -34,7 +34,7 @@ Six Industries of Arizona has been at the forefront of offering advanced tools t
 
 **5. Agriculture:** Modernizing farming practices through situational awareness.
 
-**6. Healthcare:** Enhancing patient care with real-time monitoring and predictive analytics.
+**6. Healthcare:** Enhancing patient care with real-time monitoring and secure data transmissions.
 
 
 # **Getting Started**
