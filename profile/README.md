@@ -30,7 +30,7 @@ Six Industries of Arizona has been at the forefront of offering advanced tools t
 
 **3. Mining & Metallurgy:** Ensuring safety and improving situational awareness techniques.
 
-**4. Transportation & Logistics:** Streamlining logistics and transport operations.
+**4. Transportation & Logistics:** Streamlining logistics and transport operations while maintaining complete accountability.
 
 **5. Agriculture:** Modernizing farming practices through predictive analytics.
 
