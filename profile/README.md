@@ -32,7 +32,7 @@ Six Industries of Arizona has been at the forefront of offering advanced tools t
 
 **4. Transportation & Logistics:** Streamlining logistics and transport operations while maintaining complete accountability.
 
-**5. Agriculture:** Modernizing farming practices through predictive analytics.
+**5. Agriculture:** Modernizing farming practices through situational awareness.
 
 **6. Healthcare:** Enhancing patient care with real-time monitoring and predictive analytics.
 
